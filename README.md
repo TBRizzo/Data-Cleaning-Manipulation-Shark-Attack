@@ -5,6 +5,8 @@
 <p align="center"> Second project developed in the Ironhack Data Analysis Bootcamp </h1>
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![image](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 
 ##  💻 About the project</br>
 
