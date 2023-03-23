@@ -2,7 +2,7 @@
 
 <h1 align="center">Shark Attack: Data Cleaning and Manipulation</h1>
 
-<p align="center"> Second project developed in the Ironhack Data Analysis Bootcamp :star: :star: </h1>
+<p align="center"> Second project developed in the Ironhack Data Analysis Bootcamp </h1>
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
