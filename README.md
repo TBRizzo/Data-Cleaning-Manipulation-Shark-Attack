@@ -23,7 +23,8 @@ The dataset was very messy, but I conducted this with a diverse set of tools in 
 After the analysis I concluded that the company efforts should be focused on:
 
 1) Where: Florida, where the majorite of the attacks happen. 
-2) What: Surfing, swimming and fishing are the most affected activities. 3) Who: 0-38 (or 0-22, depending on the focus range) are the most vulnarable age groups.*
+2) What: Surfing, swimming and fishing are the most affected activities. 
+3) Who: 0-38 (or 0-22, depending on the focus range) are the most vulnarable age groups.*
 
 *Note: The age group could be narrowed down to a smaller group if we had the data that showed a relation between activity and practitioners' age, to focus more precisely on a particular age group.
 
