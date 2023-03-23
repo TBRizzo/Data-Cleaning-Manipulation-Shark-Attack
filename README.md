@@ -6,6 +6,8 @@
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
+##  💻 About the project</br>
+
 The main goal of this project was come up with a business question about shark attacks and try to answer that using data, to improve data cleaning and manipulation techniques, while starting to create an analytical mindset.
 
 The dataset we were given to work with was the "Global Shark Attack" found in kaggle.
